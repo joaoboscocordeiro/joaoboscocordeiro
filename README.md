@@ -23,7 +23,7 @@ style="max-width:100%;"></img>
 style="max-width:100%;"></img>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobosco&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoboscocordeiro&show_icons=true&theme=radical)
 
 <!--
 **joaoboscocordeiro/joaoboscocordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
