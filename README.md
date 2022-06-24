@@ -5,12 +5,12 @@
 - I am currently studying about mobile architecture - MVP | MVVM.
 
 ## Connect with me:
-<a href="https://https://www.linkedin.com/in/joao-bosco-cordeiro-de-lima-junior-1b89b130/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-bosco-cordeiro-de-lima-j%C3%BAnior-1b89b130/" target="_blank">
 <img align="center" alt="joaobosco-linkedin height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
 style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/joaoboscocordeiro/" target="_blank">
+<a href="https://www.instagram.com/joao_bosco_cordeiro/" target="_blank">
 <img align="center" alt="joaobosco-instagram height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
 style="max-width:100%;">
 </a>
