@@ -5,7 +5,7 @@
 - I am currently studying about mobile architecture - MVP | MVVM.
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/jo%C3%A3o-bosco-cordeiro-de-lima-j%C3%BAnior-1b89b130/" target="_blank">
+<a href="https://https://www.linkedin.com/in/joao-bosco-cordeiro-de-lima-junior-1b89b130/" target="_blank">
 <img align="center" alt="joaobosco-linkedin height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
 style="max-width:100%;">
 </a>
