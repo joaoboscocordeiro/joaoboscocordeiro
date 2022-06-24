@@ -1,8 +1,7 @@
-### Hi there 👋
-## I´m João Bosco Cordeiro
-- I live in :brazil:
-- I work with application development - :iphone:
-- I am currently studying about mobile architecture - MVP | MVVM.
+## Olá! eu sou João Bosco Cordeiro
+- Eu Moro no Brasil
+- Trabalho como Desenvolvedor Android - :iphone:
+- Atualmente estou estudando sobre arquitetura - MVP | MVVM.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jo%C3%A3o-bosco-cordeiro-de-lima-j%C3%BAnior-1b89b130/" target="_blank">
@@ -23,19 +22,8 @@ style="max-width:100%;"></img>
 style="max-width:100%;"></img>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoboscocordeiro&show_icons=true&theme=radical)
-
-<!--**joaoboscocordeiro/joaoboscocordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Graph
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoboscocordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoboscocordeiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
