@@ -16,6 +16,7 @@ style="max-width:100%;">
 ## Minhas habilidades
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt"java" width="40" height="40"style="max-width:100%;"></img><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt"kotlin" width="40" height="40"style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ios/ios-original.svg" alt"iOS" width="40" height="40"style="max-width:100%;"></img>
 </div>
 
 ## Graph
