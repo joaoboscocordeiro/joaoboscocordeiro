@@ -5,7 +5,7 @@
 
 ## Conecte-se comigo
 <a href="https://www.linkedin.com/in/jo%C3%A3o-bosco-cordeiro-de-lima-j%C3%BAnior-1b89b130/" target="_blank">
-<img align="center" alt="joaobosco-linkedin height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
+<img align="center" alt="joaoboscocordeiro-linkedin height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
 style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/joao_bosco_cordeiro/" target="_blank">
