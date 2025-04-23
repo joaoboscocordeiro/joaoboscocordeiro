@@ -1,7 +1,7 @@
 ## Olá! eu sou João Bosco Cordeiro
 - Eu Moro no Brasil
-- Trabalho como Desenvolvedor Android - :iphone:
-- Atualmente estou estudando sobre Kotlin | MVVM | Jetpack Compose | Coroutines e Flow | Navegação.
+- Trabalho como Dev. Android | ASPNET CORE MVC C# - :iphone:
+- Atualmente estou estudando sobre Kotlin | C# | SQLServer | MVVM | Jetpack Compose | Coroutines e Flow | Navegação.
 
 ## Conecte-se comigo
 <a href="https://www.linkedin.com/in/jo%C3%A3o-bosco-cordeiro-de-lima-j%C3%BAnior-1b89b130/" target="_blank">
